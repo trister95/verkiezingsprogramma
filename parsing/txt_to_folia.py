@@ -3,14 +3,7 @@ import ucto
 import tqdm
 
 def list_txt_files(directory):
-    """ 
-    Outputs all .txt files in a directory.
-    """
-    txt_files = []
-    for filename in os.listdir(directory):
-        if filename.endswith('.txt'):
-            txt_files.append(filename)
-    return txt_files
+    return [filename for filename in os.listdir(directory) if filename.endswith('.txt')]
 
 def txt_to_folia(input_dir, output_dir):
     """

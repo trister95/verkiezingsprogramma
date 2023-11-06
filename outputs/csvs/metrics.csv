@@ -1,0 +1,404 @@
+,party,primary_topic,topic_count,total_sentences,topic_percentage,average_percentage,relative_difference
+0,50plus,Agriculture,2,195,1.0,4.3,-77.0
+1,BBB,Agriculture,101,1871,5.4,4.3,26.0
+2,BVNL,Agriculture,26,651,4.0,4.3,-7.0
+3,CDA,Agriculture,43,1075,4.0,4.3,-7.0
+4,CU,Agriculture,178,3669,4.9,4.3,14.0
+5,D66,Agriculture,140,3801,3.7,4.3,-14.0
+6,FvD,Agriculture,21,723,2.9,4.3,-33.0
+7,GL_PvdA,Agriculture,54,2372,2.3,4.3,-47.0
+8,JA21,Agriculture,40,998,4.0,4.3,-7.0
+9,LP,Agriculture,3,545,0.6,4.3,-86.0
+10,NSC,Agriculture,38,1538,2.5,4.3,-42.0
+11,PVDS,Agriculture,2,113,1.8,4.3,-58.0
+12,PVV,Agriculture,22,345,6.4,4.3,49.0
+13,Piratenpartij,Agriculture,19,1025,1.9,4.3,-56.0
+14,PvdD,Agriculture,565,2615,21.6,4.3,402.0
+15,SGP,Agriculture,20,435,4.6,4.3,7.0
+16,SP,Agriculture,9,578,1.6,4.3,-63.0
+17,VVD,Agriculture,66,2272,2.9,4.3,-33.0
+18,Volt,Agriculture,89,1882,4.7,4.3,9.0
+19,50plus,Civil Rights,8,195,4.1,11.3,-64.0
+20,BBB,Civil Rights,210,1871,11.2,11.3,-1.0
+21,BVNL,Civil Rights,77,651,11.8,11.3,4.0
+22,CDA,Civil Rights,109,1075,10.1,11.3,-11.0
+23,CU,Civil Rights,416,3669,11.3,11.3,0.0
+24,D66,Civil Rights,478,3801,12.6,11.3,12.0
+25,FvD,Civil Rights,80,723,11.1,11.3,-2.0
+26,GL_PvdA,Civil Rights,217,2372,9.1,11.3,-19.0
+27,JA21,Civil Rights,68,998,6.8,11.3,-40.0
+28,LP,Civil Rights,96,545,17.6,11.3,56.0
+29,NSC,Civil Rights,139,1538,9.0,11.3,-20.0
+30,PVDS,Civil Rights,6,113,5.3,11.3,-53.0
+31,PVV,Civil Rights,37,345,10.7,11.3,-5.0
+32,Piratenpartij,Civil Rights,220,1025,21.5,11.3,90.0
+33,PvdD,Civil Rights,233,2615,8.9,11.3,-21.0
+34,SGP,Civil Rights,104,435,23.9,11.3,112.0
+35,SP,Civil Rights,55,578,9.5,11.3,-16.0
+36,VVD,Civil Rights,219,2272,9.6,11.3,-15.0
+37,Volt,Civil Rights,193,1882,10.3,11.3,-9.0
+38,50plus,Defense,5,195,2.6,1.9,37.0
+39,BBB,Defense,65,1871,3.5,1.9,84.0
+40,BVNL,Defense,12,651,1.8,1.9,-5.0
+41,CDA,Defense,11,1075,1.0,1.9,-47.0
+42,CU,Defense,51,3669,1.4,1.9,-26.0
+43,D66,Defense,50,3801,1.3,1.9,-32.0
+44,FvD,Defense,15,723,2.1,1.9,11.0
+45,GL_PvdA,Defense,28,2372,1.2,1.9,-37.0
+46,JA21,Defense,51,998,5.1,1.9,168.0
+47,LP,Defense,16,545,2.9,1.9,53.0
+48,NSC,Defense,15,1538,1.0,1.9,-47.0
+49,PVDS,Defense,2,113,1.8,1.9,-5.0
+50,PVV,Defense,7,345,2.0,1.9,5.0
+51,Piratenpartij,Defense,9,1025,0.9,1.9,-53.0
+52,PvdD,Defense,16,2615,0.6,1.9,-68.0
+53,SGP,Defense,13,435,3.0,1.9,58.0
+54,SP,Defense,5,578,0.9,1.9,-53.0
+55,VVD,Defense,43,2272,1.9,1.9,0.0
+56,Volt,Defense,13,1882,0.7,1.9,-63.0
+57,50plus,Domestic Commerce,6,195,3.1,7.5,-59.0
+58,BBB,Domestic Commerce,141,1871,7.5,7.5,0.0
+59,BVNL,Domestic Commerce,73,651,11.2,7.5,49.0
+60,CDA,Domestic Commerce,68,1075,6.3,7.5,-16.0
+61,CU,Domestic Commerce,302,3669,8.2,7.5,9.0
+62,D66,Domestic Commerce,276,3801,7.3,7.5,-3.0
+63,FvD,Domestic Commerce,50,723,6.9,7.5,-8.0
+64,GL_PvdA,Domestic Commerce,177,2372,7.5,7.5,0.0
+65,JA21,Domestic Commerce,50,998,5.0,7.5,-33.0
+66,LP,Domestic Commerce,91,545,16.7,7.5,123.0
+67,NSC,Domestic Commerce,113,1538,7.3,7.5,-3.0
+68,PVDS,Domestic Commerce,8,113,7.1,7.5,-5.0
+69,PVV,Domestic Commerce,5,345,1.4,7.5,-81.0
+70,Piratenpartij,Domestic Commerce,142,1025,13.9,7.5,85.0
+71,PvdD,Domestic Commerce,114,2615,4.4,7.5,-41.0
+72,SGP,Domestic Commerce,21,435,4.8,7.5,-36.0
+73,SP,Domestic Commerce,58,578,10.0,7.5,33.0
+74,VVD,Domestic Commerce,159,2272,7.0,7.5,-7.0
+75,Volt,Domestic Commerce,123,1882,6.5,7.5,-13.0
+76,50plus,Education,7,195,3.6,7.2,-50.0
+77,BBB,Education,95,1871,5.1,7.2,-29.0
+78,BVNL,Education,34,651,5.2,7.2,-28.0
+79,CDA,Education,79,1075,7.3,7.2,1.0
+80,CU,Education,283,3669,7.7,7.2,7.0
+81,D66,Education,343,3801,9.0,7.2,25.0
+82,FvD,Education,83,723,11.5,7.2,60.0
+83,GL_PvdA,Education,167,2372,7.0,7.2,-3.0
+84,JA21,Education,67,998,6.7,7.2,-7.0
+85,LP,Education,47,545,8.6,7.2,19.0
+86,NSC,Education,116,1538,7.5,7.2,4.0
+87,PVDS,Education,12,113,10.6,7.2,47.0
+88,PVV,Education,27,345,7.8,7.2,8.0
+89,Piratenpartij,Education,79,1025,7.7,7.2,7.0
+90,PvdD,Education,129,2615,4.9,7.2,-32.0
+91,SGP,Education,35,435,8.0,7.2,11.0
+92,SP,Education,27,578,4.7,7.2,-35.0
+93,VVD,Education,201,2272,8.8,7.2,22.0
+94,Volt,Education,101,1882,5.4,7.2,-25.0
+95,50plus,Energy,13,195,6.7,4.9,37.0
+96,BBB,Energy,70,1871,3.7,4.9,-24.0
+97,BVNL,Energy,42,651,6.5,4.9,33.0
+98,CDA,Energy,36,1075,3.3,4.9,-33.0
+99,CU,Energy,159,3669,4.3,4.9,-12.0
+100,D66,Energy,176,3801,4.6,4.9,-6.0
+101,FvD,Energy,25,723,3.5,4.9,-29.0
+102,GL_PvdA,Energy,126,2372,5.3,4.9,8.0
+103,JA21,Energy,54,998,5.4,4.9,10.0
+104,LP,Energy,25,545,4.6,4.9,-6.0
+105,NSC,Energy,60,1538,3.9,4.9,-20.0
+106,PVDS,Energy,2,113,1.8,4.9,-63.0
+107,PVV,Energy,17,345,4.9,4.9,0.0
+108,Piratenpartij,Energy,31,1025,3.0,4.9,-39.0
+109,PvdD,Energy,169,2615,6.5,4.9,33.0
+110,SGP,Energy,24,435,5.5,4.9,12.0
+111,SP,Energy,30,578,5.2,4.9,6.0
+112,VVD,Energy,113,2272,5.0,4.9,2.0
+113,Volt,Energy,181,1882,9.6,4.9,96.0
+114,50plus,Environment,16,195,8.2,8.6,-5.0
+115,BBB,Environment,186,1871,9.9,8.6,15.0
+116,BVNL,Environment,39,651,6.0,8.6,-30.0
+117,CDA,Environment,96,1075,8.9,8.6,3.0
+118,CU,Environment,390,3669,10.6,8.6,23.0
+119,D66,Environment,442,3801,11.6,8.6,35.0
+120,FvD,Environment,52,723,7.2,8.6,-16.0
+121,GL_PvdA,Environment,262,2372,11.0,8.6,28.0
+122,JA21,Environment,65,998,6.5,8.6,-24.0
+123,LP,Environment,31,545,5.7,8.6,-34.0
+124,NSC,Environment,103,1538,6.7,8.6,-22.0
+125,PVDS,Environment,3,113,2.7,8.6,-69.0
+126,PVV,Environment,23,345,6.7,8.6,-22.0
+127,Piratenpartij,Environment,60,1025,5.9,8.6,-31.0
+128,PvdD,Environment,567,2615,21.7,8.6,152.0
+129,SGP,Environment,23,435,5.3,8.6,-38.0
+130,SP,Environment,36,578,6.2,8.6,-28.0
+131,VVD,Environment,213,2272,9.4,8.6,9.0
+132,Volt,Environment,250,1882,13.3,8.6,55.0
+133,50plus,European Integration,12,195,6.2,3.3,88.0
+134,BBB,European Integration,72,1871,3.8,3.3,15.0
+135,BVNL,European Integration,13,651,2.0,3.3,-39.0
+136,CDA,European Integration,26,1075,2.4,3.3,-27.0
+137,CU,European Integration,73,3669,2.0,3.3,-39.0
+138,D66,European Integration,70,3801,1.8,3.3,-45.0
+139,FvD,European Integration,37,723,5.1,3.3,55.0
+140,GL_PvdA,European Integration,64,2372,2.7,3.3,-18.0
+141,JA21,European Integration,40,998,4.0,3.3,21.0
+142,LP,European Integration,14,545,2.6,3.3,-21.0
+143,NSC,European Integration,46,1538,3.0,3.3,-9.0
+144,PVV,European Integration,11,345,3.2,3.3,-3.0
+145,Piratenpartij,European Integration,31,1025,3.0,3.3,-9.0
+146,PvdD,European Integration,35,2615,1.3,3.3,-61.0
+147,SGP,European Integration,14,435,3.2,3.3,-3.0
+148,SP,European Integration,15,578,2.6,3.3,-21.0
+149,VVD,European Integration,64,2272,2.8,3.3,-15.0
+150,Volt,European Integration,147,1882,7.8,3.3,136.0
+151,50plus,Government Operations,15,195,7.7,6.2,24.0
+152,BBB,Government Operations,212,1871,11.3,6.2,82.0
+153,BVNL,Government Operations,33,651,5.1,6.2,-18.0
+154,CDA,Government Operations,87,1075,8.1,6.2,31.0
+155,CU,Government Operations,232,3669,6.3,6.2,2.0
+156,D66,Government Operations,199,3801,5.2,6.2,-16.0
+157,FvD,Government Operations,40,723,5.5,6.2,-11.0
+158,GL_PvdA,Government Operations,120,2372,5.1,6.2,-18.0
+159,JA21,Government Operations,82,998,8.2,6.2,32.0
+160,LP,Government Operations,45,545,8.3,6.2,34.0
+161,NSC,Government Operations,132,1538,8.6,6.2,39.0
+162,PVDS,Government Operations,3,113,2.7,6.2,-56.0
+163,PVV,Government Operations,11,345,3.2,6.2,-48.0
+164,Piratenpartij,Government Operations,70,1025,6.8,6.2,10.0
+165,PvdD,Government Operations,64,2615,2.4,6.2,-61.0
+166,SGP,Government Operations,32,435,7.4,6.2,19.0
+167,SP,Government Operations,28,578,4.8,6.2,-23.0
+168,VVD,Government Operations,120,2272,5.3,6.2,-15.0
+169,Volt,Government Operations,115,1882,6.1,6.2,-2.0
+170,50plus,Health,15,195,7.7,7.4,4.0
+171,BBB,Health,142,1871,7.6,7.4,3.0
+172,BVNL,Health,29,651,4.5,7.4,-39.0
+173,CDA,Health,80,1075,7.4,7.4,0.0
+174,CU,Health,195,3669,5.3,7.4,-28.0
+175,D66,Health,288,3801,7.6,7.4,3.0
+176,FvD,Health,45,723,6.2,7.4,-16.0
+177,GL_PvdA,Health,121,2372,5.1,7.4,-31.0
+178,JA21,Health,94,998,9.4,7.4,27.0
+179,LP,Health,31,545,5.7,7.4,-23.0
+180,NSC,Health,100,1538,6.5,7.4,-12.0
+181,PVDS,Health,35,113,31.0,7.4,319.0
+182,PVV,Health,21,345,6.1,7.4,-18.0
+183,Piratenpartij,Health,49,1025,4.8,7.4,-35.0
+184,PvdD,Health,122,2615,4.7,7.4,-36.0
+185,SGP,Health,13,435,3.0,7.4,-59.0
+186,SP,Health,53,578,9.2,7.4,24.0
+187,VVD,Health,150,2272,6.6,7.4,-11.0
+188,Volt,Health,59,1882,3.1,7.4,-58.0
+189,50plus,Housing,15,195,7.7,4.4,75.0
+190,BBB,Housing,99,1871,5.3,4.4,20.0
+191,BVNL,Housing,41,651,6.3,4.4,43.0
+192,CDA,Housing,35,1075,3.3,4.4,-25.0
+193,CU,Housing,98,3669,2.7,4.4,-39.0
+194,D66,Housing,164,3801,4.3,4.4,-2.0
+195,FvD,Housing,24,723,3.3,4.4,-25.0
+196,GL_PvdA,Housing,126,2372,5.3,4.4,20.0
+197,JA21,Housing,53,998,5.3,4.4,20.0
+198,LP,Housing,25,545,4.6,4.4,5.0
+199,NSC,Housing,93,1538,6.0,4.4,36.0
+200,PVDS,Housing,6,113,5.3,4.4,20.0
+201,PVV,Housing,16,345,4.6,4.4,5.0
+202,Piratenpartij,Housing,18,1025,1.8,4.4,-59.0
+203,PvdD,Housing,72,2615,2.8,4.4,-36.0
+204,SGP,Housing,6,435,1.4,4.4,-68.0
+205,SP,Housing,25,578,4.3,4.4,-2.0
+206,VVD,Housing,132,2272,5.8,4.4,32.0
+207,Volt,Housing,83,1882,4.4,4.4,0.0
+208,50plus,Immigration,14,195,7.2,4.1,76.0
+209,BBB,Immigration,33,1871,1.8,4.1,-56.0
+210,BVNL,Immigration,35,651,5.4,4.1,32.0
+211,CDA,Immigration,38,1075,3.5,4.1,-15.0
+212,CU,Immigration,152,3669,4.1,4.1,0.0
+213,D66,Immigration,114,3801,3.0,4.1,-27.0
+214,FvD,Immigration,26,723,3.6,4.1,-12.0
+215,GL_PvdA,Immigration,128,2372,5.4,4.1,32.0
+216,JA21,Immigration,72,998,7.2,4.1,76.0
+217,LP,Immigration,11,545,2.0,4.1,-51.0
+218,NSC,Immigration,69,1538,4.5,4.1,10.0
+219,PVDS,Immigration,3,113,2.7,4.1,-34.0
+220,PVV,Immigration,31,345,9.0,4.1,120.0
+221,Piratenpartij,Immigration,14,1025,1.4,4.1,-66.0
+222,PvdD,Immigration,47,2615,1.8,4.1,-56.0
+223,SGP,Immigration,17,435,3.9,4.1,-5.0
+224,SP,Immigration,24,578,4.2,4.1,2.0
+225,VVD,Immigration,104,2272,4.6,4.1,12.0
+226,Volt,Immigration,43,1882,2.3,4.1,-44.0
+227,50plus,International Affairs,3,195,1.5,2.5,-40.0
+228,BBB,International Affairs,64,1871,3.4,2.5,36.0
+229,BVNL,International Affairs,9,651,1.4,2.5,-44.0
+230,CDA,International Affairs,20,1075,1.9,2.5,-24.0
+231,CU,International Affairs,161,3669,4.4,2.5,76.0
+232,D66,International Affairs,99,3801,2.6,2.5,4.0
+233,FvD,International Affairs,23,723,3.2,2.5,28.0
+234,GL_PvdA,International Affairs,105,2372,4.4,2.5,76.0
+235,JA21,International Affairs,16,998,1.6,2.5,-36.0
+236,LP,International Affairs,2,545,0.4,2.5,-84.0
+237,NSC,International Affairs,34,1538,2.2,2.5,-12.0
+238,PVDS,International Affairs,1,113,0.9,2.5,-64.0
+239,PVV,International Affairs,15,345,4.3,2.5,72.0
+240,Piratenpartij,International Affairs,22,1025,2.1,2.5,-16.0
+241,PvdD,International Affairs,87,2615,3.3,2.5,32.0
+242,SGP,International Affairs,11,435,2.5,2.5,0.0
+243,SP,International Affairs,21,578,3.6,2.5,44.0
+244,VVD,International Affairs,37,2272,1.6,2.5,-36.0
+245,Volt,International Affairs,46,1882,2.4,2.5,-4.0
+246,50plus,Labor,10,195,5.1,5.4,-6.0
+247,BBB,Labor,70,1871,3.7,5.4,-31.0
+248,BVNL,Labor,38,651,5.8,5.4,7.0
+249,CDA,Labor,63,1075,5.9,5.4,9.0
+250,CU,Labor,168,3669,4.6,5.4,-15.0
+251,D66,Labor,196,3801,5.2,5.4,-4.0
+252,FvD,Labor,40,723,5.5,5.4,2.0
+253,GL_PvdA,Labor,219,2372,9.2,5.4,70.0
+254,JA21,Labor,55,998,5.5,5.4,2.0
+255,LP,Labor,17,545,3.1,5.4,-43.0
+256,NSC,Labor,99,1538,6.4,5.4,19.0
+257,PVDS,Labor,7,113,6.2,5.4,15.0
+258,PVV,Labor,14,345,4.1,5.4,-24.0
+259,Piratenpartij,Labor,45,1025,4.4,5.4,-19.0
+260,PvdD,Labor,71,2615,2.7,5.4,-50.0
+261,SGP,Labor,13,435,3.0,5.4,-44.0
+262,SP,Labor,61,578,10.6,5.4,96.0
+263,VVD,Labor,122,2272,5.4,5.4,0.0
+264,Volt,Labor,102,1882,5.4,5.4,0.0
+265,50plus,Law and Crime,10,195,5.1,6.0,-15.0
+266,BBB,Law and Crime,66,1871,3.5,6.0,-42.0
+267,BVNL,Law and Crime,38,651,5.8,6.0,-3.0
+268,CDA,Law and Crime,63,1075,5.9,6.0,-2.0
+269,CU,Law and Crime,198,3669,5.4,6.0,-10.0
+270,D66,Law and Crime,192,3801,5.1,6.0,-15.0
+271,FvD,Law and Crime,43,723,5.9,6.0,-2.0
+272,GL_PvdA,Law and Crime,112,2372,4.7,6.0,-22.0
+273,JA21,Law and Crime,78,998,7.8,6.0,30.0
+274,LP,Law and Crime,28,545,5.1,6.0,-15.0
+275,NSC,Law and Crime,139,1538,9.0,6.0,50.0
+276,PVDS,Law and Crime,10,113,8.8,6.0,47.0
+277,PVV,Law and Crime,30,345,8.7,6.0,45.0
+278,Piratenpartij,Law and Crime,74,1025,7.2,6.0,20.0
+279,PvdD,Law and Crime,83,2615,3.2,6.0,-47.0
+280,SGP,Law and Crime,18,435,4.1,6.0,-32.0
+281,SP,Law and Crime,36,578,6.2,6.0,3.0
+282,VVD,Law and Crime,210,2272,9.2,6.0,53.0
+283,Volt,Law and Crime,58,1882,3.1,6.0,-48.0
+284,50plus,Macroeconomics,14,195,7.2,3.7,95.0
+285,BBB,Macroeconomics,33,1871,1.8,3.7,-51.0
+286,BVNL,Macroeconomics,38,651,5.8,3.7,57.0
+287,CDA,Macroeconomics,56,1075,5.2,3.7,41.0
+288,CU,Macroeconomics,99,3669,2.7,3.7,-27.0
+289,D66,Macroeconomics,68,3801,1.8,3.7,-51.0
+290,FvD,Macroeconomics,28,723,3.9,3.7,5.0
+291,GL_PvdA,Macroeconomics,62,2372,2.6,3.7,-30.0
+292,JA21,Macroeconomics,35,998,3.5,3.7,-5.0
+293,LP,Macroeconomics,29,545,5.3,3.7,43.0
+294,NSC,Macroeconomics,60,1538,3.9,3.7,5.0
+295,PVDS,Macroeconomics,4,113,3.5,3.7,-5.0
+296,PVV,Macroeconomics,17,345,4.9,3.7,32.0
+297,Piratenpartij,Macroeconomics,44,1025,4.3,3.7,16.0
+298,PvdD,Macroeconomics,46,2615,1.8,3.7,-51.0
+299,SGP,Macroeconomics,9,435,2.1,3.7,-43.0
+300,SP,Macroeconomics,19,578,3.3,3.7,-11.0
+301,VVD,Macroeconomics,66,2272,2.9,3.7,-22.0
+302,Volt,Macroeconomics,62,1882,3.3,3.7,-11.0
+303,50plus,Other,1,195,0.5,0.5,0.0
+304,BBB,Other,18,1871,1.0,0.5,100.0
+305,BVNL,Other,2,651,0.3,0.5,-40.0
+306,CDA,Other,7,1075,0.7,0.5,40.0
+307,CU,Other,13,3669,0.4,0.5,-20.0
+308,D66,Other,15,3801,0.4,0.5,-20.0
+309,FvD,Other,2,723,0.3,0.5,-40.0
+310,GL_PvdA,Other,15,2372,0.6,0.5,20.0
+311,JA21,Other,3,998,0.3,0.5,-40.0
+312,LP,Other,2,545,0.4,0.5,-20.0
+313,NSC,Other,5,1538,0.3,0.5,-40.0
+314,Piratenpartij,Other,2,1025,0.2,0.5,-60.0
+315,PvdD,Other,7,2615,0.3,0.5,-40.0
+316,SGP,Other,2,435,0.5,0.5,0.0
+317,SP,Other,4,578,0.7,0.5,40.0
+318,VVD,Other,21,2272,0.9,0.5,80.0
+319,Volt,Other,19,1882,1.0,0.5,100.0
+320,50plus,Social Welfare,21,195,10.8,6.7,61.0
+321,BBB,Social Welfare,93,1871,5.0,6.7,-25.0
+322,BVNL,Social Welfare,33,651,5.1,6.7,-24.0
+323,CDA,Social Welfare,114,1075,10.6,6.7,58.0
+324,CU,Social Welfare,312,3669,8.5,6.7,27.0
+325,D66,Social Welfare,268,3801,7.1,6.7,6.0
+326,FvD,Social Welfare,47,723,6.5,6.7,-3.0
+327,GL_PvdA,Social Welfare,153,2372,6.5,6.7,-3.0
+328,JA21,Social Welfare,35,998,3.5,6.7,-48.0
+329,LP,Social Welfare,26,545,4.8,6.7,-28.0
+330,NSC,Social Welfare,112,1538,7.3,6.7,9.0
+331,PVDS,Social Welfare,7,113,6.2,6.7,-7.0
+332,PVV,Social Welfare,28,345,8.1,6.7,21.0
+333,Piratenpartij,Social Welfare,39,1025,3.8,6.7,-43.0
+334,PvdD,Social Welfare,88,2615,3.4,6.7,-49.0
+335,SGP,Social Welfare,50,435,11.5,6.7,72.0
+336,SP,Social Welfare,46,578,8.0,6.7,19.0
+337,VVD,Social Welfare,100,2272,4.4,6.7,-34.0
+338,Volt,Social Welfare,102,1882,5.4,6.7,-19.0
+339,50plus,Transportation,8,195,4.1,3.0,37.0
+340,BBB,Transportation,68,1871,3.6,3.0,20.0
+341,BVNL,Transportation,26,651,4.0,3.0,33.0
+342,CDA,Transportation,36,1075,3.3,3.0,10.0
+343,CU,Transportation,143,3669,3.9,3.0,30.0
+344,D66,Transportation,144,3801,3.8,3.0,27.0
+345,FvD,Transportation,24,723,3.3,3.0,10.0
+346,GL_PvdA,Transportation,76,2372,3.2,3.0,7.0
+347,JA21,Transportation,25,998,2.5,3.0,-17.0
+348,LP,Transportation,1,545,0.2,3.0,-93.0
+349,NSC,Transportation,38,1538,2.5,3.0,-17.0
+350,PVDS,Transportation,2,113,1.8,3.0,-40.0
+351,PVV,Transportation,11,345,3.2,3.0,7.0
+352,Piratenpartij,Transportation,14,1025,1.4,3.0,-53.0
+353,PvdD,Transportation,66,2615,2.5,3.0,-17.0
+354,SGP,Transportation,8,435,1.8,3.0,-40.0
+355,SP,Transportation,20,578,3.5,3.0,17.0
+356,VVD,Transportation,107,2272,4.7,3.0,57.0
+357,Volt,Transportation,58,1882,3.1,3.0,3.0
+358,BBB,Foreign Trade,16,1871,0.9,0.6,50.0
+359,BVNL,Foreign Trade,3,651,0.5,0.6,-17.0
+360,CDA,Foreign Trade,3,1075,0.3,0.6,-50.0
+361,CU,Foreign Trade,15,3669,0.4,0.6,-33.0
+362,D66,Foreign Trade,18,3801,0.5,0.6,-17.0
+363,FvD,Foreign Trade,7,723,1.0,0.6,67.0
+364,GL_PvdA,Foreign Trade,10,2372,0.4,0.6,-33.0
+365,JA21,Foreign Trade,6,998,0.6,0.6,0.0
+366,LP,Foreign Trade,1,545,0.2,0.6,-67.0
+367,NSC,Foreign Trade,8,1538,0.5,0.6,-17.0
+368,PVV,Foreign Trade,1,345,0.3,0.6,-50.0
+369,Piratenpartij,Foreign Trade,15,1025,1.5,0.6,150.0
+370,PvdD,Foreign Trade,16,2615,0.6,0.6,0.0
+371,SGP,Foreign Trade,2,435,0.5,0.6,-17.0
+372,SP,Foreign Trade,4,578,0.7,0.6,17.0
+373,VVD,Foreign Trade,9,2272,0.4,0.6,-33.0
+374,Volt,Foreign Trade,9,1882,0.5,0.6,-17.0
+375,BBB,Technology,17,1871,0.9,0.9,0.0
+376,BVNL,Technology,9,651,1.4,0.9,56.0
+377,CDA,Technology,3,1075,0.3,0.9,-67.0
+378,CU,Technology,24,3669,0.7,0.9,-22.0
+379,D66,Technology,42,3801,1.1,0.9,22.0
+380,FvD,Technology,8,723,1.1,0.9,22.0
+381,GL_PvdA,Technology,14,2372,0.6,0.9,-33.0
+382,JA21,Technology,7,998,0.7,0.9,-22.0
+383,LP,Technology,4,545,0.7,0.9,-22.0
+384,NSC,Technology,16,1538,1.0,0.9,11.0
+385,Piratenpartij,Technology,27,1025,2.6,0.9,189.0
+386,PvdD,Technology,10,2615,0.4,0.9,-56.0
+387,SP,Technology,2,578,0.3,0.9,-67.0
+388,VVD,Technology,11,2272,0.5,0.9,-44.0
+389,Volt,Technology,21,1882,1.1,0.9,22.0
+390,BVNL,Culture,1,651,0.2,0.3,-33.0
+391,CDA,Culture,2,1075,0.2,0.3,-33.0
+392,CU,Culture,7,3669,0.2,0.3,-33.0
+393,D66,Culture,19,3801,0.5,0.3,67.0
+394,FvD,Culture,3,723,0.4,0.3,33.0
+395,GL_PvdA,Culture,16,2372,0.7,0.3,133.0
+396,JA21,Culture,2,998,0.2,0.3,-33.0
+397,NSC,Culture,3,1538,0.2,0.3,-33.0
+398,PVV,Culture,1,345,0.3,0.3,0.0
+399,Piratenpartij,Culture,1,1025,0.1,0.3,-67.0
+400,PvdD,Culture,8,2615,0.3,0.3,0.0
+401,VVD,Culture,5,2272,0.2,0.3,-33.0
+402,Volt,Culture,8,1882,0.4,0.3,33.0

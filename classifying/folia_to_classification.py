@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import tqdm
 from transformers import pipeline
-from folia.main import folia
+import folia.main as folia
 
 # Define tokenizer arguments
 tokenizer_kwargs = {'padding': True, 'truncation': True, 'max_length': 512}

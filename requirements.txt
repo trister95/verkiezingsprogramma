@@ -1,0 +1,8 @@
+folia-tools
+pandas
+tqdm
+transformers
+PyPDF2
+python-ucto
+matplotlib
+os
